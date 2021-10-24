@@ -18,7 +18,7 @@ the main txt file.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/16MNctSpg4jkBhSVlFLbK9HHSKvX9kg8U/view?usp=sharing)
+![App Screenshot](https://github.com/kshitij1235/Password_saver/blob/main/readme_media/screen_shot_compile.png)
 
   
 
