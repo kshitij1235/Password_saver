@@ -1,11 +1,7 @@
-from functools import partial
-from os import access, read
 import tkinter as tk
 from tkinter import Button, Entry, Label, Text, Tk, ttk
 import tkinter
 from tkinter.constants import END
-from types import prepare_class
-from typing import cast
 
 
 def write_file(filename, content, method):
